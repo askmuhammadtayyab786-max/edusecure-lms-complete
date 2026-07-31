@@ -1,0 +1,7 @@
+title = "EduSecure Gitleaks Config"
+
+[allowlist]
+paths = [
+  '''frontend/\.next/.*''',
+  '''node_modules/.*'''
+]
